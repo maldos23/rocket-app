@@ -1,0 +1,12 @@
+<svg width="28" height="30" viewBox="0 0 28 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Date_range">
+<rect id="Rectangle 25" x="3.43402" y="7.5" width="20.6043" height="18.75" rx="2" stroke="#FF6663" stroke-width="2"/>
+<path id="Rectangle 26" d="M3.43402 11.5C3.43402 9.61438 3.43402 8.67157 4.01981 8.08579C4.60559 7.5 5.5484 7.5 7.43402 7.5H20.0383C21.9239 7.5 22.8668 7.5 23.4525 8.08579C24.0383 8.67157 24.0383 9.61438 24.0383 11.5V12.5H3.43402V11.5Z" fill="#FF6663"/>
+<path id="Line 1" d="M8.01276 3.75L8.01276 7.5" stroke="#FF6663" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 2" d="M19.4596 3.75L19.4596 7.5" stroke="#FF6663" stroke-width="2" stroke-linecap="round"/>
+<rect id="Rectangle 27" x="8.01276" y="15" width="4.57873" height="2.5" rx="0.5" fill="#FF6663"/>
+<rect id="Rectangle 29" x="8.01276" y="20" width="4.57873" height="2.5" rx="0.5" fill="#FF6663"/>
+<rect id="Rectangle 28" x="14.8809" y="15" width="4.57873" height="2.5" rx="0.5" fill="#FF6663"/>
+<rect id="Rectangle 30" x="14.8809" y="20" width="4.57873" height="2.5" rx="0.5" fill="#FF6663"/>
+</g>
+</svg>
