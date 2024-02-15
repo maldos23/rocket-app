@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;800;900&display=swap");
+.productTitle {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 1rem;
+}
+
+.grid {
+  display: flex;
+  gap: 10px;
+}
+
+.container {
+  width: 100%;
+  margin: 0rem 1rem;
+}
+
+.appbar {
+  display: flex;
+  top: 0;
+  width: calc(100% - 2rem);
+  justify-content: space-between;
+  align-items: center;
+}
+
+.totalsection{
+  display: flex;
+  gap: 1rem;
+  margin: 1rem 0rem;
+}
